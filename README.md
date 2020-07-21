@@ -1,3 +1,3 @@
 # Ecoleta-NLW #1
-Meu Primeiro projeto em HTML, CSS, JavaScript
-site de coleta seletiva, onde você pode criar um local de descarte em qualquer lugar 
+My first project in HTML, CSS, JavaScript
+Ecoleta website, where you can create a local for discart in anywhere
